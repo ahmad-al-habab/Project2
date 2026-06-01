@@ -1,0 +1,67 @@
+# Virtual Environment
+.venv/
+
+# PyCharm
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# YOLO training runs
+runs/
+
+# Weights
+*.pt
+
+# Dataset folders
+dataset_yolo/
+dataset_tiled_yolo/
+Datasets_yolo/
+
+# Cache
+*.cache# Virtual Environment
+.venv/
+
+# PyCharm
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# YOLO training runs
+runs/
+
+# Weights
+*.pt
+
+# Dataset folders
+dataset_yolo/
+dataset_tiled_yolo/
+Datasets_yolo/
+
+# Cache
+*.cache# Virtual Environment
+.venv/
+
+# PyCharm
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# YOLO training runs
+runs/
+
+# Weights
+*.pt
+
+# Dataset folders
+dataset_yolo/
+dataset_tiled_yolo/
+Datasets_yolo/
+
+# Cache
+*.cache

@@ -1,0 +1,7 @@
+path: /home/alsarhan/PycharmProjects/oil_tanks_seg/dataset_tiled_yolo
+
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: tank
